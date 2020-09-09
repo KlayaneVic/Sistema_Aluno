@@ -7,7 +7,7 @@
 		<input type="text" name="ra" />
 		<br>
 		
-		<input type="submit" value="Salvar" />
+		<input type="submit" value="Pesquisar" />
 	</form>
 		
 <?php
