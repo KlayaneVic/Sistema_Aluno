@@ -1,7 +1,7 @@
 <?php
 
 	// Crio a conexão do PHP com o Banco de Dados
-	$con = mysqli_connect("localhost", "Klayane", "189059x");
+	$con = mysqli_connect("", "", "");
 	if(!$con) {
 		echo mysqli_connect_error($con);
 	}
